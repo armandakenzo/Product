@@ -1,0 +1,60 @@
+body {
+   background-image: url(bgHitam.png);
+}
+
+section {
+   width: 300px;
+   height: 545px;
+   background-color: white;
+   border-radius: 8px;
+   margin: auto;
+   margin-top: 15px;
+   padding-top: 15px;
+}
+
+.bi {
+   font-size: 22px;
+   margin-left: 258px;
+}
+
+img {
+   width: 150px;
+   height: 200px;
+   margin-top: 20px;
+   margin-left: 80px;
+}
+
+.content {
+   margin: 8px;
+}
+
+.content p {
+   margin-bottom: 5px;
+}
+
+.content .bi {
+   margin-left: 1px;
+}
+
+.content .price {
+   text-align: center;
+   margin-top: 5px;
+}
+
+.order {
+   font-size: 20px;
+   background-color: rgb(125, 33, 125);
+   padding: 10px 20px;
+   width: 240px;
+   border-radius: 25px;
+   text-align: center;
+   margin: auto;
+   margin-top: 15px;
+   color: white;
+   transition: .3s;
+}
+
+.order:hover {
+   cursor: pointer;
+   background-color: rgb(238, 55, 238);
+}
